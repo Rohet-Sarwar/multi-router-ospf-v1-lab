@@ -20,7 +20,7 @@ ospf-topology.pkt – Cisco Packet Tracer project file
 router-configs/ – Configuration files for each router
 screenshots/ – Network topology and verification outputs (ping tests, routing tables)
 README.md – Project documentation
-## kills Demonstrated
+## Skills Demonstrated
 OSPFv1 configuration and implementation
 Multi-router network design
 IP addressing and subnetting
