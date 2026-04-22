@@ -1,5 +1,5 @@
 ## Multi-Router OSPFv1 Lab
-##**Objective
+## Objective
 
 Designed and implemented a multi-router network using OSPFv1 to achieve dynamic routing, efficient path selection, and full connectivity between multiple subnets.
 
@@ -20,6 +20,7 @@ ospf-topology.pkt – Cisco Packet Tracer project file
 router-configs/ – Configuration files for each router
 screenshots/ – Network topology and verification outputs (ping tests, routing tables)
 README.md – Project documentation
+
 ## Skills Demonstrated
 OSPFv1 configuration and implementation
 Multi-router network design
